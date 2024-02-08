@@ -1,5 +1,5 @@
 # CraftClicker
-AutoClicker Macro Script mainly for minecraft ( it is specifically designed for speed and safety since it is a really fancy autoclicker )
+AutoClicker Macro Script mainly for minecraft ( it is specifically designed for speed and safety since it is a really fancy autoclicker ) will add more stuff in the future
 ## Features
 - **Minecraft-Focused**: Optimized for Minecraft to assist with grinding tasks, building, or combat.
 - **Macro-like Activation**: Only activates upon a manual mouse click, seamlessly integrating into your gameplay.
